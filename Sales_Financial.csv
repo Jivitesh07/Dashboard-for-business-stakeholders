@@ -1,0 +1,501 @@
+OrderDate,Region,Country,Product,Category,Sales,Cost,Quantity
+2023-08-14,Europe,Spain,Couch,Furniture,1593,1357.1752270249265,3
+2020-08-14,Asia,India,Headphones,Electronics,13740,10507.861176951303,20
+2022-05-28,Africa,Egypt,Desk,Furniture,5180,3505.779811162966,20
+2020-03-04,South America,Argentina,Notebook,Office Supplies,7164,6367.454637237961,9
+2022-10-14,Africa,South Africa,Couch,Furniture,4947,4149.075462115425,17
+2022-08-31,Asia,Singapore,Chair,Furniture,8127,5132.591437807941,9
+2023-04-07,South America,Argentina,Couch,Furniture,16207,9902.92743240995,19
+2023-03-18,South America,Chile,Desk,Furniture,7360,5762.772064946547,16
+2020-07-31,Africa,Egypt,Shirt,Clothing,957,638.0430579651021,11
+2022-11-04,Europe,Germany,Chair,Furniture,10224,6658.378687077417,16
+2021-11-18,Europe,Germany,Headphones,Electronics,16596,10707.418797359827,18
+2020-07-30,North America,Canada,Shoes,Clothing,3784,3397.339179536578,11
+2020-11-23,South America,Brazil,Headphones,Electronics,408,330.57566967900243,3
+2020-10-15,South America,Chile,Jeans,Clothing,312,193.78216726211525,2
+2020-01-15,North America,USA,Laptop,Electronics,7728,5080.839505051593,16
+2023-12-08,Africa,Nigeria,Shirt,Clothing,4800,4248.8674829487545,12
+2022-09-25,South America,Brazil,Pen,Office Supplies,2860,2078.2237166997593,11
+2020-06-22,Africa,South Africa,Tablet,Electronics,1965,1658.7117230432143,15
+2023-07-08,Asia,Japan,Shoes,Clothing,410,357.13036045468994,5
+2021-12-22,Asia,Japan,Headphones,Electronics,4545,4077.547447647903,9
+2021-09-26,South America,Argentina,Bookshelf,Furniture,3600,3225.3020866659326,10
+2023-03-09,Asia,Japan,Bookshelf,Furniture,6970,4254.070337356313,17
+2023-10-27,Africa,Egypt,Bookshelf,Furniture,7240,5218.577641464202,8
+2022-01-24,Europe,Spain,Laptop,Electronics,16701,10861.306236130953,19
+2021-10-26,Europe,UK,Headphones,Electronics,1546,1167.9422388407281,2
+2021-10-08,South America,Argentina,Paper,Office Supplies,16660,13176.820882954282,17
+2023-05-10,Asia,China,Desk,Furniture,4410,2677.594852904025,7
+2023-01-22,North America,Canada,Headphones,Electronics,3912,2985.578290081077,12
+2020-10-28,South America,Brazil,Jacket,Clothing,14459,8934.380066878375,19
+2021-10-21,Africa,Nigeria,Paper,Office Supplies,11368,8094.886011653367,14
+2023-09-25,North America,Canada,Tablet,Electronics,4755,3754.9255601139653,5
+2022-08-24,North America,Canada,Notebook,Office Supplies,673,569.0762332962795,1
+2020-09-15,Asia,India,Jacket,Clothing,771,636.2284825816632,1
+2020-06-30,North America,Canada,Couch,Furniture,4212,2561.385876536921,12
+2022-05-31,Africa,South Africa,Pen,Office Supplies,6460,4673.246622857618,20
+2023-06-08,South America,Brazil,Headphones,Electronics,7150,5286.0220946928985,13
+2021-05-24,North America,Canada,Notebook,Office Supplies,8988,7102.146056566465,12
+2022-01-04,South America,Brazil,Jeans,Clothing,268,170.65400308028705,1
+2023-09-13,North America,Mexico,Notebook,Office Supplies,7123,4572.368897665328,17
+2020-01-25,Asia,Singapore,Desk,Furniture,8433,6295.3476660109345,9
+2020-10-09,North America,USA,Laptop,Electronics,4500,3417.845436907342,9
+2021-01-31,Africa,South Africa,Desk,Furniture,2400,1929.0433513742491,6
+2020-06-08,Europe,France,Pen,Office Supplies,4095,2887.38721206604,9
+2021-12-05,Europe,France,Shoes,Clothing,1236,823.7989233014604,3
+2020-11-18,Europe,UK,Pen,Office Supplies,3500,2590.502239365184,7
+2020-09-04,North America,Canada,Couch,Furniture,5831,3648.2120705037196,7
+2022-03-11,Africa,South Africa,Smartphone,Electronics,6552,5789.804056151937,9
+2020-06-25,South America,Chile,Shirt,Clothing,3582,2333.2864886918173,18
+2022-05-21,South America,Chile,Couch,Furniture,12025,8044.6987245198525,13
+2023-05-05,Asia,Singapore,Pen,Office Supplies,18000,14802.72394450402,18
+2022-02-05,Africa,South Africa,Printer,Office Supplies,5068,4509.21155309731,14
+2023-08-13,South America,Chile,Shoes,Clothing,8261,5324.614753397568,11
+2022-02-26,North America,Mexico,Smartphone,Electronics,11298,9552.596596269108,14
+2020-01-13,Europe,Spain,Bookshelf,Furniture,3220,2873.6748740779108,5
+2020-10-27,South America,Argentina,Tablet,Electronics,3636,3132.2649590759365,18
+2022-03-23,Asia,Japan,Pen,Office Supplies,1354,1079.6544399431436,2
+2020-08-12,Asia,India,Jacket,Clothing,11895,9486.663095328322,13
+2020-01-24,North America,Mexico,Smartphone,Electronics,6325,4997.452190495847,11
+2021-11-14,Europe,Germany,Smartphone,Electronics,4740,4116.201183047055,5
+2021-09-15,Africa,Egypt,Shirt,Clothing,9006,7588.048211795932,19
+2021-05-27,South America,Argentina,Shirt,Clothing,5856,5124.5183787701035,6
+2022-04-22,Africa,Egypt,Headphones,Electronics,3612,3107.7985131910664,12
+2023-02-10,Africa,Nigeria,Printer,Office Supplies,3806,2996.0235616098116,11
+2022-02-15,Africa,Egypt,Couch,Furniture,9656,7568.145339645318,17
+2021-05-14,South America,Chile,Jacket,Clothing,3718,2352.308448381785,11
+2022-12-26,South America,Chile,Shoes,Clothing,1700,1435.0735730955253,20
+2022-10-05,South America,Brazil,Paper,Office Supplies,9999,6306.6239563831605,11
+2020-02-11,Europe,Spain,Laptop,Electronics,11736,8118.30843012482,12
+2023-02-28,Europe,UK,Pen,Office Supplies,7885,5314.122922413443,19
+2022-04-14,Asia,China,Pen,Office Supplies,13286,11013.220649790639,14
+2021-02-13,Asia,China,Desk,Furniture,2480,1943.3459390404842,5
+2023-06-11,Asia,Singapore,Shoes,Clothing,306,215.1715123303744,3
+2021-09-17,North America,Mexico,Shirt,Clothing,2660,1935.7355353928535,4
+2022-02-04,North America,Mexico,Shoes,Clothing,5577,4719.671426892592,11
+2021-11-27,North America,Canada,Headphones,Electronics,11571,7580.09815430508,19
+2021-09-29,Africa,Nigeria,Printer,Office Supplies,9828,6645.685826163336,13
+2020-12-16,Africa,South Africa,Notebook,Office Supplies,8834,5787.813378445715,14
+2020-12-15,Europe,UK,Laptop,Electronics,2448,1880.7113129308007,4
+2023-07-01,Africa,Egypt,Tablet,Electronics,7755,5003.799015182428,11
+2021-11-09,Africa,Egypt,Shoes,Clothing,6410,3880.6992780546707,10
+2020-08-16,Europe,Germany,Jacket,Clothing,11880,7322.6770574507445,18
+2021-04-15,Europe,France,Chair,Furniture,3315,2229.8152902217425,5
+2023-08-10,Asia,China,Jacket,Clothing,6246,4944.283323060386,9
+2021-01-13,Europe,UK,Desk,Furniture,3720,3221.173888286746,5
+2022-05-03,South America,Brazil,Notebook,Office Supplies,11700,7944.1948862657955,20
+2022-04-24,Asia,Singapore,Shirt,Clothing,8766,7384.540246940759,9
+2021-03-19,North America,USA,Bookshelf,Furniture,8040,6183.078334809158,15
+2021-07-18,Asia,Japan,Printer,Office Supplies,5060,4291.997633970696,11
+2020-08-12,North America,Mexico,Smartphone,Electronics,14265,10128.41396541372,15
+2020-12-15,South America,Chile,Jeans,Clothing,588,374.2143020943668,12
+2021-08-20,Europe,Spain,Smartphone,Electronics,4960,3598.886542508957,20
+2020-09-25,Africa,Egypt,Printer,Office Supplies,10727,6696.152686574918,17
+2020-09-06,Africa,Nigeria,Jacket,Clothing,360,243.84668445305914,15
+2021-03-05,Europe,France,Headphones,Electronics,9405,5723.262569000655,19
+2022-08-05,Africa,South Africa,Pen,Office Supplies,2046,1658.7490762099583,6
+2022-08-20,North America,USA,Shoes,Clothing,7532,5592.103464633016,14
+2022-12-01,Europe,UK,Printer,Office Supplies,1060,894.9632603640588,20
+2021-07-09,Africa,Egypt,Bookshelf,Furniture,12662,9049.992249343411,13
+2023-04-02,South America,Brazil,Shoes,Clothing,2475,1744.6533866809186,3
+2022-08-15,Asia,India,Tablet,Electronics,1705,1024.8359588284998,5
+2020-05-22,Africa,Egypt,Shoes,Clothing,916,652.266971269495,2
+2023-03-18,Asia,China,Couch,Furniture,3036,1901.6208772482803,6
+2020-08-10,South America,Brazil,Notebook,Office Supplies,1016,714.5957686062706,8
+2023-02-09,Europe,UK,Notebook,Office Supplies,713,461.05289787413966,1
+2020-02-16,Asia,Singapore,Paper,Office Supplies,1028,727.1955107445395,4
+2023-12-17,South America,Argentina,Printer,Office Supplies,11531,9643.366054033704,13
+2022-05-17,South America,Argentina,Headphones,Electronics,4389,2824.9453133443626,19
+2020-02-01,South America,Argentina,Notebook,Office Supplies,8424,5481.032025197499,12
+2021-06-16,Europe,Germany,Pen,Office Supplies,928,742.0685213403341,2
+2021-02-01,Europe,Germany,Paper,Office Supplies,15904,12152.353032856254,16
+2023-09-20,Africa,South Africa,Shoes,Clothing,10854,9711.46287527319,18
+2020-07-03,Europe,UK,Smartphone,Electronics,14535,9797.12821495838,15
+2022-02-21,South America,Chile,Jeans,Clothing,8946,7234.676900766737,9
+2023-12-16,North America,USA,Shirt,Clothing,936,739.676582889527,13
+2023-06-14,Africa,Egypt,Jeans,Clothing,5124,3925.4941889449465,6
+2021-12-01,North America,Canada,Bookshelf,Furniture,627,471.3154470888109,19
+2020-04-05,Europe,France,Desk,Furniture,19840,13492.877925926947,20
+2021-10-28,Africa,South Africa,Shirt,Clothing,7904,5778.7604960011695,16
+2023-05-29,Africa,Egypt,Printer,Office Supplies,2080,1497.5167065619628,8
+2021-03-09,Europe,Germany,Tablet,Electronics,6422,4195.689613074916,19
+2021-08-29,Europe,Germany,Couch,Furniture,6384,4959.032402963419,14
+2022-06-07,Europe,France,Notebook,Office Supplies,816,517.6976508754055,6
+2022-11-07,Asia,Singapore,Jacket,Clothing,11580,9656.687824893013,20
+2021-08-20,South America,Argentina,Pen,Office Supplies,5544,3998.6498102072783,9
+2023-03-23,Asia,China,Printer,Office Supplies,3008,2472.606515242451,16
+2020-05-31,South America,Argentina,Headphones,Electronics,372,321.545160722476,6
+2021-03-01,Africa,Nigeria,Desk,Furniture,18107,14240.16572240253,19
+2021-03-16,Africa,Egypt,Tablet,Electronics,1885,1301.4048992687585,5
+2021-06-20,North America,Canada,Desk,Furniture,1198,845.5254856596398,2
+2023-09-01,North America,Mexico,Chair,Furniture,9790,6423.263675552469,11
+2020-08-24,North America,USA,Printer,Office Supplies,7020,5966.773256199283,20
+2023-10-05,South America,Brazil,Jacket,Clothing,105,88.39312619587287,5
+2021-10-12,North America,USA,Chair,Furniture,5214,3237.39710605453,11
+2020-05-26,Europe,UK,Shirt,Clothing,1760,1294.58635695902,16
+2021-11-10,South America,Argentina,Headphones,Electronics,1746,1371.2613396863846,3
+2021-03-29,North America,USA,Couch,Furniture,2175,1388.453081049808,3
+2022-07-30,Asia,India,Printer,Office Supplies,1090,816.3427984715261,5
+2021-04-30,Europe,Germany,Headphones,Electronics,660,448.571038501305,6
+2022-06-18,Europe,Spain,Shoes,Clothing,8424,5473.339359951464,12
+2021-07-04,North America,Canada,Shoes,Clothing,462,333.89638027225396,6
+2021-04-03,South America,Argentina,Laptop,Electronics,263,158.29578383308572,1
+2021-11-25,South America,Chile,Pen,Office Supplies,4500,4025.708599422707,9
+2022-04-30,North America,Mexico,Couch,Furniture,10098,8286.526810160682,18
+2022-03-28,Africa,South Africa,Shirt,Clothing,7942,5378.789245804185,19
+2022-05-08,North America,USA,Notebook,Office Supplies,904,747.5445710013072,8
+2023-11-01,Europe,UK,Tablet,Electronics,11016,7264.419907095429,17
+2023-09-30,North America,USA,Printer,Office Supplies,2292,2059.2955380302446,12
+2020-06-07,South America,Brazil,Smartphone,Electronics,3552,2831.8795254143565,6
+2023-01-27,Africa,Nigeria,Shoes,Clothing,639,424.5593269775533,1
+2021-01-18,Africa,Egypt,Desk,Furniture,6560,5256.293328990982,10
+2022-07-18,South America,Brazil,Jeans,Clothing,4600,2870.379033402147,20
+2020-06-17,North America,Mexico,Pen,Office Supplies,402,269.00722758486296,3
+2021-02-05,South America,Chile,Bookshelf,Furniture,13965,9466.084825975788,15
+2022-02-09,South America,Chile,Couch,Furniture,2836,1928.3290036705876,4
+2023-07-10,South America,Chile,Pen,Office Supplies,4485,3557.2429256958294,5
+2023-09-23,Europe,UK,Desk,Furniture,1220,1000.0816797168296,4
+2020-06-25,North America,USA,Jacket,Clothing,3630,2890.91153780531,5
+2023-05-12,Europe,France,Headphones,Electronics,572,513.5327584541047,13
+2023-02-24,South America,Chile,Bookshelf,Furniture,29,22.145585618809406,1
+2021-09-03,North America,Canada,Jeans,Clothing,2316,2000.3834180635954,3
+2020-12-13,Europe,UK,Chair,Furniture,1115,883.2273081814259,5
+2020-03-19,South America,Brazil,Shirt,Clothing,2799,2253.3904549466424,9
+2022-10-18,Africa,Nigeria,Desk,Furniture,5096,4457.884837668499,8
+2022-09-26,Europe,Germany,Laptop,Electronics,1671,1117.2899443009737,3
+2020-10-20,Asia,Singapore,Printer,Office Supplies,1120,715.3898162221161,20
+2023-11-13,North America,USA,Chair,Furniture,2072,1243.4587475340393,7
+2021-11-14,Africa,South Africa,Shirt,Clothing,7995,6694.608719716539,13
+2020-03-13,Europe,Spain,Shoes,Clothing,8640,6750.938691983415,15
+2020-11-28,Africa,South Africa,Shirt,Clothing,8800,7427.636100569369,16
+2023-03-07,South America,Chile,Shoes,Clothing,8085,6941.498535056192,15
+2021-04-21,Asia,India,Jeans,Clothing,1760,1191.5987710689792,11
+2023-10-13,Africa,South Africa,Paper,Office Supplies,1400,1175.7504084433601,10
+2023-07-15,North America,Canada,Couch,Furniture,2636,1602.3653816572469,4
+2023-06-03,Asia,Japan,Desk,Furniture,9009,7690.29136799176,11
+2020-03-29,North America,Canada,Shoes,Clothing,3952,3015.779946602396,8
+2023-05-20,South America,Chile,Notebook,Office Supplies,14280,12423.21778289928,15
+2021-10-13,Europe,Germany,Shoes,Clothing,6048,4152.025924716684,8
+2022-09-19,South America,Argentina,Jeans,Clothing,234,165.16581246589269,9
+2021-03-31,Europe,UK,Chair,Furniture,13838,9439.35791766386,17
+2023-02-06,Europe,UK,Desk,Furniture,13430,8524.234353227994,17
+2021-07-23,Africa,Egypt,Couch,Furniture,15012,10611.786452153876,18
+2022-11-05,Asia,Japan,Smartphone,Electronics,2460,1952.018765468822,6
+2020-03-12,Europe,Germany,Paper,Office Supplies,4536,3073.017637410646,8
+2022-03-24,Africa,Nigeria,Paper,Office Supplies,1108,779.8749430687762,4
+2020-05-29,South America,Argentina,Shoes,Clothing,5700,3985.053956688148,19
+2022-03-01,Africa,Nigeria,Smartphone,Electronics,9300,6639.869532048322,15
+2023-11-10,South America,Argentina,Tablet,Electronics,480,295.391639540698,6
+2021-12-29,Asia,China,Pen,Office Supplies,150,98.15933718465098,10
+2020-11-08,Africa,Egypt,Printer,Office Supplies,1554,1313.817177344225,7
+2022-10-29,Europe,Spain,Pen,Office Supplies,4518,3701.806117381213,9
+2021-06-21,Europe,Germany,Smartphone,Electronics,4369,3455.3210731660934,17
+2021-06-11,Africa,South Africa,Jacket,Clothing,7524,5477.336338921676,12
+2022-02-07,Asia,Japan,Jeans,Clothing,1368,1008.5951521062525,6
+2022-07-14,Europe,UK,Notebook,Office Supplies,6677,5249.794434626207,11
+2022-09-17,North America,Canada,Pen,Office Supplies,11520,9278.493202641053,12
+2020-08-24,Asia,India,Shirt,Clothing,4275,3508.972078591075,19
+2023-02-25,North America,Mexico,Desk,Furniture,10395,8479.921082252045,15
+2023-05-06,Europe,France,Chair,Furniture,8450,6446.224134735128,10
+2021-03-16,South America,Chile,Paper,Office Supplies,708,476.0138673423969,12
+2022-04-24,North America,Mexico,Desk,Furniture,1010,729.3849412533662,5
+2023-09-20,South America,Chile,Jeans,Clothing,4624,3482.968194616911,8
+2022-05-31,Africa,Egypt,Chair,Furniture,14416,10526.591305103975,17
+2022-12-26,Europe,France,Desk,Furniture,5995,4857.466335764888,11
+2021-12-10,South America,Chile,Shirt,Clothing,7980,4901.238203465062,10
+2022-08-28,South America,Argentina,Jeans,Clothing,670,509.21343355248564,5
+2022-08-18,North America,USA,Bookshelf,Furniture,18031,16223.04815192091,19
+2023-01-30,Asia,Singapore,Laptop,Electronics,1102,961.0554310359958,2
+2023-03-24,Europe,UK,Printer,Office Supplies,784,615.0042236077004,7
+2020-09-01,North America,Canada,Pen,Office Supplies,13125,9548.693966055172,15
+2021-12-10,Asia,India,Shoes,Clothing,10744,7747.6897479090785,17
+2022-03-09,North America,Canada,Jeans,Clothing,5915,4750.287057700607,13
+2022-01-30,Europe,UK,Tablet,Electronics,4450,3696.7140830319863,10
+2021-08-11,South America,Brazil,Jacket,Clothing,3472,3005.665486851116,8
+2021-01-19,South America,Argentina,Paper,Office Supplies,2496,2187.5825087326375,13
+2020-06-09,Asia,India,Pen,Office Supplies,11625,8696.12707224031,15
+2021-05-18,Asia,China,Bookshelf,Furniture,8160,6718.801911296772,16
+2021-12-25,Africa,Nigeria,Laptop,Electronics,13510,11180.664441693516,14
+2023-07-16,Africa,South Africa,Headphones,Electronics,7527,4966.765036802826,13
+2020-12-25,Asia,Japan,Notebook,Office Supplies,3971,2603.5067638057276,11
+2020-08-22,Africa,Nigeria,Jeans,Clothing,6195,4983.42681238705,7
+2022-08-26,South America,Chile,Shoes,Clothing,6304,5505.294690493991,8
+2022-09-23,South America,Chile,Chair,Furniture,3976,3221.9308371660813,7
+2021-10-03,North America,Canada,Headphones,Electronics,5625,4566.870202709702,9
+2021-12-11,North America,Canada,Shoes,Clothing,115,70.77471155242186,1
+2021-02-16,Europe,Spain,Tablet,Electronics,9139,6684.365766341307,19
+2021-04-08,Europe,France,Notebook,Office Supplies,5520,4265.981418619024,12
+2023-08-30,Africa,South Africa,Smartphone,Electronics,4344,3045.300781937457,6
+2020-05-27,North America,Mexico,Tablet,Electronics,6611,4722.102835313239,11
+2021-05-28,North America,Canada,Tablet,Electronics,6492,4834.297651164679,12
+2020-08-29,South America,Brazil,Pen,Office Supplies,7155,4700.497696436873,15
+2022-11-03,South America,Chile,Bookshelf,Furniture,14972,9968.629635235027,19
+2021-08-25,Africa,South Africa,Tablet,Electronics,4655,3840.8050394421707,5
+2020-08-22,Asia,India,Laptop,Electronics,5634,4360.951926641248,9
+2020-12-08,South America,Chile,Shoes,Clothing,8138,5348.570711070107,13
+2020-06-16,South America,Brazil,Notebook,Office Supplies,804,610.7110384144845,4
+2022-03-13,Africa,Nigeria,Printer,Office Supplies,902,632.5565753659181,1
+2021-04-27,Asia,China,Printer,Office Supplies,706,533.2468899895389,2
+2023-11-26,Asia,Singapore,Jeans,Clothing,12735,8478.100261273068,15
+2022-01-31,Africa,South Africa,Couch,Furniture,3318,2947.215985053586,6
+2020-12-26,Asia,China,Printer,Office Supplies,450,354.63694882819857,2
+2020-08-30,South America,Chile,Chair,Furniture,4605,4029.084817753369,5
+2023-10-24,South America,Brazil,Pen,Office Supplies,2630,1809.9360407389474,10
+2020-08-30,Europe,France,Chair,Furniture,1700,1224.6602912896358,2
+2020-06-03,North America,USA,Smartphone,Electronics,6606,5150.993439898297,9
+2021-10-03,Europe,Germany,Headphones,Electronics,11258,9384.736903945353,13
+2023-04-28,Africa,Nigeria,Bookshelf,Furniture,5568,3745.1609189979404,6
+2022-04-03,Africa,Nigeria,Smartphone,Electronics,7090,5200.66686534759,10
+2023-07-08,Asia,India,Headphones,Electronics,4102,2642.3805241727746,7
+2020-06-15,Asia,Japan,Desk,Furniture,2460,1966.1970644659668,10
+2023-03-15,Asia,Singapore,Smartphone,Electronics,1884,1489.7445437521087,2
+2022-09-05,South America,Argentina,Jacket,Clothing,564,433.33455082012097,6
+2020-01-15,Asia,Japan,Headphones,Electronics,2169,1771.145412162225,9
+2022-04-12,Europe,Germany,Notebook,Office Supplies,273,189.54470649767097,13
+2020-02-04,South America,Brazil,Laptop,Electronics,8762,6398.1075716541345,13
+2023-11-16,Europe,Spain,Shoes,Clothing,1194,938.6449456643102,3
+2020-03-02,Asia,China,Jacket,Clothing,3790,2361.4857110171924,5
+2020-08-04,South America,Argentina,Laptop,Electronics,4522,3579.1360899596903,14
+2020-03-28,Asia,Japan,Laptop,Electronics,7344,5103.827724885596,18
+2020-04-21,South America,Chile,Pen,Office Supplies,3435,2279.8028316682658,15
+2022-10-14,South America,Argentina,Shirt,Clothing,598,436.69306567467726,13
+2020-12-08,Asia,Singapore,Chair,Furniture,4712,3873.204918867805,19
+2022-01-05,Europe,Germany,Desk,Furniture,825,713.6405714703138,11
+2022-04-20,Europe,UK,Shirt,Clothing,12272,10403.177028145372,16
+2020-12-16,Europe,UK,Couch,Furniture,3328,2862.750035034829,16
+2020-10-05,Africa,Nigeria,Laptop,Electronics,5916,4324.285594788641,6
+2023-06-18,Africa,South Africa,Pen,Office Supplies,9338,5859.359543554087,14
+2020-04-16,North America,Canada,Shoes,Clothing,4095,3601.87269048006,15
+2021-02-15,North America,Canada,Chair,Furniture,1958,1650.661737916842,11
+2022-07-12,Europe,Spain,Shirt,Clothing,13175,11826.95205044172,17
+2022-09-13,Europe,UK,Jacket,Clothing,3680,2330.253958433893,10
+2020-03-19,Africa,South Africa,Chair,Furniture,5925,4328.867748731592,15
+2022-12-28,North America,Canada,Bookshelf,Furniture,1185,1034.4001768157973,5
+2021-09-06,Asia,Singapore,Chair,Furniture,8143,6971.881106432515,17
+2020-10-05,Asia,China,Pen,Office Supplies,1986,1354.6644732482866,3
+2020-03-20,South America,Chile,Laptop,Electronics,1386,920.1905494255017,6
+2021-12-28,North America,Canada,Headphones,Electronics,6246,4932.328152752176,9
+2020-09-06,Europe,France,Pen,Office Supplies,7733,4729.577441682512,11
+2023-01-29,North America,Mexico,Couch,Furniture,819,726.024763660889,9
+2022-12-13,Europe,Germany,Desk,Furniture,7664,6893.782242354887,8
+2020-06-29,North America,Canada,Chair,Furniture,896,583.8663705782,8
+2020-03-02,North America,Mexico,Paper,Office Supplies,1401,882.9635618665272,3
+2021-09-06,Asia,China,Shoes,Clothing,681,516.4711164871242,3
+2020-11-15,South America,Brazil,Bookshelf,Furniture,920,761.7430739761905,20
+2020-06-09,Africa,South Africa,Bookshelf,Furniture,6760,4753.007584391188,10
+2023-03-07,Europe,Germany,Tablet,Electronics,381,242.01687903948556,3
+2021-05-26,North America,Canada,Desk,Furniture,9960,7739.258436704069,20
+2023-01-03,Asia,India,Tablet,Electronics,4620,3194.3311196197983,10
+2020-07-14,Africa,Egypt,Desk,Furniture,245,201.62153073850521,1
+2022-03-08,Africa,Egypt,Smartphone,Electronics,2780,2299.2320542396014,4
+2020-07-28,South America,Brazil,Pen,Office Supplies,7664,5754.025094343266,16
+2021-10-31,South America,Argentina,Notebook,Office Supplies,843,602.9040185641192,1
+2023-12-02,South America,Brazil,Laptop,Electronics,9240,7480.705686969968,14
+2023-07-29,Asia,Japan,Printer,Office Supplies,333,233.2738636748682,9
+2020-08-18,North America,USA,Notebook,Office Supplies,15552,10123.759861454615,18
+2023-02-05,Africa,South Africa,Headphones,Electronics,4660,3885.5657391969926,5
+2023-01-09,Europe,Spain,Printer,Office Supplies,8025,4879.949283995452,15
+2020-10-30,South America,Chile,Shoes,Clothing,924,642.7411409484866,4
+2022-04-16,Asia,India,Shoes,Clothing,3068,2243.652042727717,13
+2021-06-22,South America,Chile,Jacket,Clothing,13622,8191.110050559788,14
+2021-01-26,Africa,South Africa,Shirt,Clothing,8508,6510.298710576925,12
+2023-08-26,Asia,Japan,Laptop,Electronics,4584,3655.9600570502475,8
+2023-07-31,South America,Argentina,Jeans,Clothing,5538,4277.166996529647,6
+2020-07-01,South America,Argentina,Desk,Furniture,5621,4025.1822632118456,7
+2022-07-10,Africa,Egypt,Bookshelf,Furniture,6192,4585.466480248989,8
+2022-06-28,Asia,India,Bookshelf,Furniture,2723,2243.5158681221956,7
+2020-08-15,South America,Brazil,Shirt,Clothing,3748,2493.2824853863794,4
+2021-01-18,Europe,Spain,Pen,Office Supplies,2370,1601.767492515387,3
+2020-04-06,Africa,South Africa,Shoes,Clothing,2235,1459.5571071338995,3
+2023-10-18,Europe,UK,Headphones,Electronics,8484,7277.638583040977,12
+2021-06-01,Africa,Nigeria,Jacket,Clothing,13262,10162.039298294023,19
+2021-11-07,South America,Argentina,Headphones,Electronics,14127,9158.801912588531,17
+2021-11-20,South America,Argentina,Paper,Office Supplies,3880,2600.7510552795384,4
+2020-02-29,Asia,China,Notebook,Office Supplies,9906,7792.841884379504,13
+2022-05-24,Europe,Germany,Printer,Office Supplies,4046,2857.4589857478654,14
+2021-06-27,Africa,Egypt,Shoes,Clothing,7389,6534.236017876613,9
+2023-08-26,North America,Mexico,Jeans,Clothing,16866,14514.835546160768,18
+2023-10-08,Europe,Spain,Laptop,Electronics,2845,2405.0650336606395,5
+2020-12-14,Africa,Egypt,Notebook,Office Supplies,1820,1285.4187703949208,7
+2022-11-01,North America,USA,Headphones,Electronics,2465,1505.5542674548778,5
+2021-09-18,South America,Chile,Notebook,Office Supplies,1905,1701.9850190626473,5
+2021-11-30,Europe,Spain,Jacket,Clothing,4760,3584.90489705252,17
+2022-05-15,North America,USA,Jeans,Clothing,588,385.7341541781597,1
+2023-05-03,Asia,China,Printer,Office Supplies,3390,2277.56463900759,15
+2021-04-26,Europe,Germany,Shirt,Clothing,14178,10476.304585634507,17
+2022-05-22,Africa,Nigeria,Jacket,Clothing,6564,5315.3058816439425,12
+2021-10-10,South America,Argentina,Paper,Office Supplies,4340,3902.5866265095938,7
+2020-03-05,North America,Mexico,Notebook,Office Supplies,930,790.1596228228098,15
+2022-08-24,Asia,Singapore,Couch,Furniture,8712,6278.347920523214,12
+2022-05-31,Africa,Egypt,Headphones,Electronics,2848,2200.0826291054764,4
+2022-10-03,North America,USA,Headphones,Electronics,14436,10153.8204282313,18
+2023-12-18,North America,Canada,Smartphone,Electronics,10197,7179.991330979384,11
+2020-07-18,Africa,South Africa,Jacket,Clothing,7353,5510.895353098439,19
+2021-11-02,Europe,France,Notebook,Office Supplies,1548,1233.1272492909834,6
+2021-02-05,North America,USA,Jacket,Clothing,3320,2616.002496400211,20
+2023-06-03,Africa,Egypt,Couch,Furniture,285,218.62204532999348,3
+2022-06-26,South America,Argentina,Notebook,Office Supplies,5418,3916.080546709845,6
+2023-09-30,Africa,South Africa,Couch,Furniture,2052,1234.9788562524657,9
+2022-10-23,North America,Canada,Bookshelf,Furniture,1494,1149.1616411209443,9
+2022-06-24,Africa,Nigeria,Tablet,Electronics,1658,1461.8613426612687,2
+2023-09-15,North America,Canada,Shirt,Clothing,784,620.2562560966454,14
+2023-11-22,Asia,Japan,Shoes,Clothing,13678,9900.501397031107,14
+2023-05-23,South America,Chile,Laptop,Electronics,4140,3525.6064735209848,18
+2021-02-27,South America,Argentina,Smartphone,Electronics,1626,1359.9644884561908,6
+2022-01-10,South America,Chile,Smartphone,Electronics,10128,8027.486067192451,12
+2023-04-04,Asia,China,Paper,Office Supplies,4008,2627.4262251279943,6
+2021-03-16,South America,Brazil,Smartphone,Electronics,3992,2669.800491777601,4
+2023-06-28,Asia,India,Shoes,Clothing,7074,4706.253706735288,18
+2021-07-17,Africa,South Africa,Smartphone,Electronics,10615,8004.974996257779,11
+2022-05-04,South America,Argentina,Jeans,Clothing,816,526.7518218960361,3
+2021-01-03,South America,Argentina,Paper,Office Supplies,4744,2865.2374755719206,8
+2021-07-13,North America,Mexico,Paper,Office Supplies,5358,4665.866098001521,19
+2022-05-22,North America,USA,Laptop,Electronics,2646,2072.7449389116246,9
+2022-03-21,Europe,UK,Bookshelf,Furniture,9061,6250.009838524608,13
+2022-05-18,North America,USA,Printer,Office Supplies,1362,1043.1207572737362,6
+2022-10-24,Africa,South Africa,Tablet,Electronics,7875,6045.391531566165,9
+2023-03-25,North America,USA,Notebook,Office Supplies,1545,1301.1670723577781,5
+2021-01-15,North America,USA,Shoes,Clothing,600,397.44088113795533,12
+2021-12-29,Asia,China,Shirt,Clothing,1573,1254.2698806636006,11
+2020-07-10,North America,USA,Tablet,Electronics,68,51.45576560630007,2
+2022-07-12,Africa,Nigeria,Paper,Office Supplies,7656,5316.249569952679,12
+2023-02-21,Africa,Nigeria,Pen,Office Supplies,8340,5829.5296572010875,15
+2022-08-15,North America,USA,Printer,Office Supplies,3888,2484.0241402188617,12
+2023-04-04,Asia,Japan,Pen,Office Supplies,11349,9523.0490570993,13
+2022-04-29,South America,Chile,Shirt,Clothing,7866,4848.722839230751,19
+2021-01-10,South America,Brazil,Chair,Furniture,5584,4501.9473625695555,8
+2021-06-25,Europe,Germany,Tablet,Electronics,675,478.12501535648875,9
+2020-02-15,North America,USA,Shoes,Clothing,1570,1051.8947563576562,2
+2020-11-18,North America,Canada,Chair,Furniture,2529,1852.5127259100352,9
+2022-03-21,Africa,Egypt,Tablet,Electronics,2264,1506.023309074961,8
+2020-08-13,Europe,Spain,Bookshelf,Furniture,16864,13326.031024153204,17
+2022-08-05,South America,Argentina,Laptop,Electronics,1221,838.6370838581927,3
+2023-11-18,South America,Brazil,Shoes,Clothing,15786,9665.19807423026,18
+2020-06-01,Asia,China,Smartphone,Electronics,496,357.8785907870584,4
+2020-11-22,North America,Mexico,Shoes,Clothing,2945,2207.6503313311923,19
+2022-01-04,North America,USA,Bookshelf,Furniture,10188,8894.796119678798,18
+2021-09-30,Europe,Spain,Desk,Furniture,2236,1838.5135267030082,4
+2023-10-14,North America,USA,Shoes,Clothing,4626,2777.2777520485465,6
+2023-10-13,Europe,Spain,Couch,Furniture,11203,8243.890738366497,17
+2021-07-22,North America,Mexico,Tablet,Electronics,2760,2073.8031637048052,10
+2022-12-16,South America,Brazil,Printer,Office Supplies,6138,5091.919571310084,9
+2020-05-31,North America,Mexico,Couch,Furniture,1980,1703.0616061963449,15
+2023-05-11,Europe,France,Pen,Office Supplies,670,441.20173388387803,2
+2021-11-26,South America,Argentina,Jacket,Clothing,8921,5838.70980699088,11
+2023-06-17,Asia,India,Pen,Office Supplies,1915,1430.7316332536946,5
+2020-02-15,North America,Mexico,Tablet,Electronics,3289,2014.739227306447,13
+2023-09-18,Africa,Egypt,Notebook,Office Supplies,1128,864.2015356692449,2
+2021-06-06,South America,Brazil,Chair,Furniture,13661,11169.730613210591,19
+2023-05-06,Africa,Nigeria,Tablet,Electronics,15480,13628.479511777718,20
+2023-05-19,Asia,China,Notebook,Office Supplies,1911,1184.472793994516,13
+2020-02-18,Asia,China,Smartphone,Electronics,3960,3410.994319079674,20
+2020-09-11,Europe,Germany,Printer,Office Supplies,1386,1211.1525344384565,3
+2020-06-06,South America,Chile,Shoes,Clothing,9480,7822.71159727739,20
+2022-12-25,Africa,Egypt,Tablet,Electronics,1899,1278.289366182165,9
+2023-04-01,South America,Argentina,Bookshelf,Furniture,5400,3470.356634046375,8
+2021-11-26,Africa,South Africa,Notebook,Office Supplies,3765,3065.837867239745,15
+2022-10-26,Asia,Singapore,Laptop,Electronics,12825,8280.26407023148,19
+2022-08-19,North America,Canada,Tablet,Electronics,6846,5023.69190569888,14
+2022-05-25,North America,USA,Notebook,Office Supplies,2360,1719.1740784423675,20
+2022-07-30,Asia,Japan,Notebook,Office Supplies,12597,10555.545840643568,13
+2023-02-18,Africa,South Africa,Notebook,Office Supplies,435,300.8000049436824,1
+2021-06-18,Africa,Nigeria,Printer,Office Supplies,11480,7440.309196949544,20
+2020-06-04,North America,Canada,Couch,Furniture,7635,4963.019272999799,15
+2021-05-20,South America,Argentina,Chair,Furniture,2664,2312.5293883619634,8
+2021-09-09,North America,Mexico,Laptop,Electronics,468,342.67363598329297,6
+2022-07-04,Asia,China,Pen,Office Supplies,4966,3754.4856158946227,13
+2023-10-18,North America,Canada,Smartphone,Electronics,550,424.49540273398134,5
+2020-01-03,Europe,Germany,Smartphone,Electronics,12405,8081.969957641074,15
+2021-04-11,Asia,India,Jacket,Clothing,5103,3714.8354998770387,9
+2023-03-30,South America,Brazil,Chair,Furniture,609,401.8701986226947,7
+2020-05-14,North America,Canada,Paper,Office Supplies,1528,1081.2422783218692,4
+2021-12-26,Europe,Germany,Printer,Office Supplies,13053,9333.394742452767,19
+2023-12-12,Asia,China,Couch,Furniture,4610,3557.904691556825,5
+2022-03-13,Europe,France,Shoes,Clothing,1098,886.0039021669886,9
+2023-09-18,North America,USA,Headphones,Electronics,14212,10850.55303362115,17
+2021-08-25,Europe,UK,Jeans,Clothing,7155,5901.344047788368,9
+2023-03-24,South America,Brazil,Desk,Furniture,11538,7631.632319239924,18
+2022-04-14,Asia,Japan,Pen,Office Supplies,3220,2420.4096860423706,5
+2020-08-27,Europe,UK,Couch,Furniture,11704,10002.57853232986,14
+2020-03-23,Europe,UK,Smartphone,Electronics,867,565.4461995846917,1
+2021-04-13,North America,USA,Tablet,Electronics,17442,11625.667197486748,19
+2021-11-06,Europe,Germany,Paper,Office Supplies,6936,5982.320656362295,12
+2021-01-22,Asia,India,Bookshelf,Furniture,3960,3034.3825517672767,8
+2022-01-04,North America,Canada,Tablet,Electronics,2960,2340.469722262015,8
+2023-11-15,South America,Argentina,Chair,Furniture,3300,2864.502046066477,10
+2023-04-03,Europe,Germany,Shirt,Clothing,14400,12071.100628187027,18
+2020-10-06,South America,Chile,Paper,Office Supplies,10560,8987.383447934573,20
+2021-06-12,Africa,Nigeria,Headphones,Electronics,1560,955.9381556282617,5
+2020-07-05,North America,Canada,Chair,Furniture,6020,3699.6152923506643,20
+2022-06-06,South America,Chile,Paper,Office Supplies,14400,11973.9361172361,15
+2021-05-14,South America,Argentina,Printer,Office Supplies,6292,5620.8532981547405,11
+2023-07-05,Asia,China,Desk,Furniture,7856,7002.5881182882995,16
+2020-09-13,South America,Chile,Desk,Furniture,8775,5860.232317805082,15
+2023-02-13,Africa,Nigeria,Headphones,Electronics,6460,5561.274235353588,19
+2020-08-19,Asia,India,Notebook,Office Supplies,3210,2859.797683275544,6
+2021-06-08,North America,Mexico,Tablet,Electronics,255,229.23244009453015,5
+2020-12-30,North America,Mexico,Chair,Furniture,12750,9328.055139490894,17
+2020-01-17,North America,USA,Bookshelf,Furniture,4512,3656.2306619805413,6
+2022-01-22,Asia,India,Bookshelf,Furniture,2376,2084.9369476098063,8
+2021-04-06,Asia,China,Laptop,Electronics,2607,1748.7841316324634,3
+2021-12-13,Asia,Japan,Desk,Furniture,312,247.39878658752713,8
+2020-06-20,Asia,Singapore,Desk,Furniture,2256,1830.063541314977,6
+2023-05-06,North America,USA,Bookshelf,Furniture,4522,3553.815905298357,7
+2020-10-25,Europe,UK,Desk,Furniture,1016,807.82996556672,2
+2023-10-07,Europe,France,Shoes,Clothing,714,482.8913465035398,3
+2021-03-30,South America,Brazil,Shoes,Clothing,4545,3158.160215733428,5
+2023-04-17,South America,Argentina,Desk,Furniture,12636,7624.5401816244075,13
+2022-09-30,Asia,China,Shirt,Clothing,884,754.1268598761214,17
+2022-11-15,South America,Argentina,Desk,Furniture,3164,2340.8501962613527,4
+2022-04-03,South America,Brazil,Laptop,Electronics,1106,667.81833091936,14
+2020-09-28,North America,Canada,Laptop,Electronics,2214,1853.6500959402147,9
+2020-10-07,Asia,Singapore,Jeans,Clothing,6111,3829.1454372149587,7
+2023-11-27,South America,Chile,Printer,Office Supplies,993,692.297990055031,3
+2020-06-25,Europe,Spain,Pen,Office Supplies,3388,2787.5705787801307,11
+2020-02-27,South America,Brazil,Couch,Furniture,6900,4646.501221256208,12
+2022-12-20,Africa,South Africa,Pen,Office Supplies,6656,4361.670841698494,8
+2020-10-24,Asia,India,Bookshelf,Furniture,672,403.80989905164256,4
+2022-02-15,Asia,India,Jacket,Clothing,570,379.65230820775804,6
+2023-11-14,North America,USA,Printer,Office Supplies,7736,5692.99702726717,8
+2022-01-24,South America,Argentina,Jeans,Clothing,1425,998.1863172543051,5
+2022-06-08,South America,Brazil,Paper,Office Supplies,5750,4831.105544214954,10
+2022-01-21,North America,Canada,Headphones,Electronics,560,448.39522165023885,8
+2021-08-31,Africa,Nigeria,Tablet,Electronics,77,54.19703492711118,7
+2022-03-06,Africa,South Africa,Smartphone,Electronics,1638,1411.0224850200723,13
+2022-08-15,North America,Canada,Bookshelf,Furniture,6594,5665.278073119822,14
+2022-07-15,South America,Brazil,Chair,Furniture,12824,8936.554084227912,14
+2020-04-03,South America,Chile,Bookshelf,Furniture,9846,7584.570109563154,18
+2020-06-09,South America,Argentina,Shoes,Clothing,1962,1407.5854072881348,9
+2020-05-23,Africa,South Africa,Headphones,Electronics,4812,3548.318054395362,6
+2023-01-08,Asia,China,Smartphone,Electronics,5434,4208.56445402785,19
+2023-09-02,Asia,China,Jacket,Clothing,5064,3875.0581946888856,8
+2020-03-26,Africa,Nigeria,Paper,Office Supplies,11752,10207.343688024454,13
+2023-10-02,Europe,UK,Paper,Office Supplies,8880,7646.613774228019,20
+2022-04-22,Africa,South Africa,Shirt,Clothing,540,426.17846539322306,10
+2023-07-20,Africa,Nigeria,Couch,Furniture,9741,6373.727013617547,17
+2020-05-05,North America,Mexico,Jeans,Clothing,3120,2436.296885458969,5
+2021-08-16,North America,USA,Tablet,Electronics,8260,5123.211629517647,10
+2023-09-02,South America,Brazil,Laptop,Electronics,4873,4162.966041393129,11
+2021-09-17,North America,USA,Shirt,Clothing,6062,3753.5502603599343,7
+2022-02-27,North America,Mexico,Jeans,Clothing,4164,3354.629551089435,6
+2020-12-08,North America,USA,Jeans,Clothing,12545,11223.309850461479,13
+2023-05-10,South America,Chile,Laptop,Electronics,6714,4407.187143059786,9
+2023-03-15,South America,Argentina,Pen,Office Supplies,3012,2387.2024880142667,6
+2020-07-12,Africa,Egypt,Pen,Office Supplies,11886,7959.797432755158,14
+2022-11-02,North America,Mexico,Chair,Furniture,158,100.64364023310416,2
+2021-02-08,North America,Mexico,Jeans,Clothing,9988,6972.148713692062,11
+2023-06-01,Asia,Singapore,Jacket,Clothing,3887,3004.1571047182174,13
+2022-04-12,Africa,Egypt,Paper,Office Supplies,1790,1156.6194711380292,5
+2020-02-20,Asia,China,Pen,Office Supplies,758,647.7844481226855,1
+2023-02-04,Europe,France,Desk,Furniture,1708,1531.7421313351344,2
+2021-11-12,Africa,Egypt,Jacket,Clothing,5776,3764.101019047991,8
+2021-05-04,North America,Canada,Headphones,Electronics,2856,1937.6187197674644,3
+2021-05-29,Africa,South Africa,Paper,Office Supplies,13048,11329.228416180735,14
+2023-10-21,North America,USA,Smartphone,Electronics,180,122.0746066315658,9
+2022-03-20,Asia,Singapore,Smartphone,Electronics,10836,9310.875292805438,12
+2021-07-07,Europe,Germany,Headphones,Electronics,10410,9170.7320396858,15
+2022-03-16,South America,Brazil,Tablet,Electronics,7155,4994.079851287719,9
+2022-08-08,Africa,Nigeria,Smartphone,Electronics,8949,5419.09395237603,19
+2023-08-18,South America,Chile,Tablet,Electronics,1425,910.1339321880397,19
+2020-07-01,Asia,India,Jacket,Clothing,9060,7746.595684351221,15
+2023-12-20,North America,Canada,Bookshelf,Furniture,8720,7680.064419597983,16
